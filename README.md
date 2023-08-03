@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 **Premjeet-yadav/Premjeet-yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Portfolio=premjeet-yadav.github.io
+<h2>Portfolio=premjeet-yadav.github.io</h2>
+<h2>linkedin=https://www.linkedin.com/in/premjeet-yadav-07087b25b/</h2>
 
 Here are some ideas to get you started:
 
